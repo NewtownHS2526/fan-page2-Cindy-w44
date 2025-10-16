@@ -30,7 +30,7 @@ Your task is to add styling to this website. You will access elements of the pag
 4. Now, let's add a different color `#a8dadc` to the about and the achievements sections. Instead of writing these color changes individually, notice in the `index.html` how the two `divs` and no others have a class name `class="section"`. We can access the sections by class name using the following declaration:
     ```css
     .section {
-        background-color: #a8dadc;
+    background-color: #a8dadc;
     }
     ```
 
